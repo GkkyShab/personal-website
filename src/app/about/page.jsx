@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-              I'm Gourav Kumar Gupta, a passionate Computer Science graduate
+              I am Gourav Kumar Gupta, a passionate Computer Science graduate
               from SRM Institute of Science and Technology, Chennai. With a keen
               eye for aesthetics and a mastery of code, I specialize in crafting
               innovative digital experiences that push the boundaries of
